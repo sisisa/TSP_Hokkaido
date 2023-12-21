@@ -1,7 +1,7 @@
 import csv
 import numpy as np
 from scipy.spatial import distance
-from ortoolpy import tsp
+from ortoolpy import tsp# GoogleのOR-Toolsを使用
 
 NewChitose_Airport = [141.6811815, 42.7876057]
 
